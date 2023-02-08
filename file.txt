@@ -3,3 +3,4 @@ deuxieme ligne
 modification au niveau de la branche
 test de merge sans le fast forward
 test de merge avec conflit au niveau de master
+test de merge avec conflit (developper une fonctionnalité)
